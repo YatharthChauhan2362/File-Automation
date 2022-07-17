@@ -6,3 +6,5 @@ PYTHAKON TEAM:
 2. Sansriti Ishwar
 3. Reeya Thanki
 4. Mehul Patel 
+
+Technology Used: Python 
